@@ -47,7 +47,7 @@
           {
             home-manager.useGlobalPkgs = true;
             home-manager.useUserPackages = true;
-            home-manager.users.josiah = import ./home/home.nix;
+            home-manager.users.vaibhav = import ./home/home.nix;
             home-manager.extraSpecialArgs = { inherit inputs; };
           }
         ];

@@ -10,7 +10,7 @@
       monitor=DP-1, 3840x2160@59, 1920x0, 1
 
       # Source a file (multi-file configs)
-      source = /home/josiah/.config/hypr/mocha.conf
+      source = /home/vaibhav/.config/hypr/mocha.conf
 
       # Execute your favorite apps at launch
       exec-once = swww init

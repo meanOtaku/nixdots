@@ -68,9 +68,9 @@
     LC_TIME = "en_US.UTF-8";
   };
 
-  users.users.josiah = {
+  users.users.vaibhav = {
     isNormalUser = true;
-    description = "Josiah";
+    description = "vaibhav";
     shell = pkgs.zsh;
     extraGroups = [ 
       "networkmanager" 
